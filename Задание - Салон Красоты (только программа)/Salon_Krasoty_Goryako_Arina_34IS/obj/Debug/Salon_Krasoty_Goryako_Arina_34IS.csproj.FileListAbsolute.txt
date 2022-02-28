@@ -1,0 +1,14 @@
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\bin\Debug\Salon_Krasoty_Goryako_Arina_34IS.exe.config
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\bin\Debug\Salon_Krasoty_Goryako_Arina_34IS.exe
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\bin\Debug\Salon_Krasoty_Goryako_Arina_34IS.pdb
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.Properties.Resources.resources
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.csproj.GenerateResource.cache
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.csproj.CoreCompileInputs.cache
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.exe
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.pdb
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.MainForm.resources
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.MainMenu.resources
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.Manufactures.resources
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.Products.resources
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.ProductSales.resources
+Z:\2021_2022 учебный год\34 ИС\Учебная практика\Горяко\Задание - Салон Красоты (только программа)\Salon_Krasoty_Goryako_Arina_34IS\obj\Debug\Salon_Krasoty_Goryako_Arina_34IS.csprojAssemblyReference.cache
